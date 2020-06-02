@@ -16,6 +16,7 @@ import sys
 
 # Print out the version of Python you're using:
 # YOUR CODE HERE
+print(python3 )
 
 
 import os
